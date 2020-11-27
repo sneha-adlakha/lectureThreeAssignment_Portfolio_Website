@@ -89,7 +89,7 @@ hr{
 /* navigation */
 .navigation{
     background-color: var(--primary-color);
-    font-size: xx-large;
+    font-size: large;
     padding:1rem;
     border-bottom-left-radius:1rem;
 }
